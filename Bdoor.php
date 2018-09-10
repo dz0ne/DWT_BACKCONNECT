@@ -1,15 +1,15 @@
 <?php
 /*
  *  
- * This script coded by MrSqar Yemeni Hacker
+ * This script coded by fouad ghaoui
  *  
- *  Email => mrsqar@gmail.com
+ *  Email => ghaouifouad1@gmail.com
  * 
- *  Team => IT-G3eks
+ *  Team => Dark Wolfs
  * 
  *  Greetz => All team members
  * 
- *  Twitter => @MrSqar
+ *  
  * 
  */
 $version = "v1.0";
@@ -57,9 +57,9 @@ echo "          . ' ###              @#%.,@  @#%,.@              ###`'"."\n";
 echo "            . ';'                @#%.@#%,.@                ;'` ' ."."\n";
 echo "              '                    @#%,.@                   ,."."\n";
 echo $yellow.$bold."                         -=========================-                "."\n";
-echo $yellow.$bold."                         - Name : Geeks-Connect    -                "."\n";
-echo $yellow.$bold."                         - Author : MrSqar         -                "."\n";
-echo $yellow.$bold."                         - From : Yemen            -                "."\n";
+echo $yellow.$bold."                         - Name : bdoor   -                "."\n";
+echo $yellow.$bold."                         - Author : fouad ghaoui -                "."\n";
+echo $yellow.$bold."                         - From : algeria  -                "."\n";
 echo $yellow.$bold."                         -=========================-                "."\n";
 echo $end;
 echo $green;
